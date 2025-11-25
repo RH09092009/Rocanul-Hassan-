@@ -1,0 +1,8 @@
+{
+  "name": "MediFind / মেডিফাইন্ড",
+  "description": "A bilingual (English/Bangla) AI-powered doctor finder using Google Search and Maps to locate specialists near you.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
